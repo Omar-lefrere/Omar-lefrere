@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Omar-lefrere
-- 👀 I’m interested in embadded system 
+- 👀 I’m interested in embedded system 
 - 🌱 I’m currently learning IA machine learning &  deep learning dedicated for car
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me # www.linkedin.com/in/omar-lefrere-0a6259158
