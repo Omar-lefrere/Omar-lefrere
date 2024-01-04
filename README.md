@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Omar-lefrere
-- 👀 I’m interested in embedded system 
-- 🌱 I’m currently learning IA machine learning &  deep learning dedicated for car
-- 💞️ I’m looking to collaborate on AI projects
+- 👀 I’m embedded system enginner 
+- 🌱 I’m currently working in the field of Embedded Systems , Automotive , ADAS System, Robotic (Lidar/camera/radar/ROS).
 - 📫 How to reach me # www.linkedin.com/in/omar-lefrere-0a6259158
 
 <!---
